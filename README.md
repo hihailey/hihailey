@@ -1,12 +1,11 @@
-<table>
-  <h1 style="border-bottom:none" align="center" > Hello, World. I'm Hailey! </h1>  
-  <h2 align="center" >I'm a Full-Stack Web developer 🖥 , traveller 🌎 and designer 🎨  </h2>
-  
-  
-  
-  I love learning something new and share the knowledge with other people. Feel free to contact me if anyone want to share and talk about intersting code.
+  <h1 style="border-bottom:none, font-size:17px " align="center" > Hello, World. I'm Hailey!  <br/>
+<h2 align="center" > I'm a Full-Stack Web developer 🖥 and traveller 🌎 ! </h2>
+
+ <img align="right" width="150px" src= "https://user-images.githubusercontent.com/65589560/172493591-fd2432b4-1499-4ebc-b8fd-098fc18dec43.png" >
+    
+ I love learning something new and share the knowledge with other people. Feel free to contact me if anyone want to share something or talk with me!
  
-  
+ 
   ### 🔧 Technologies & Tools
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Styled-Components](  
@@ -25,9 +24,17 @@
   
   
    ### 📞 Contact Me 
-  ![LinkedIn](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+  
+  ![LinkedIn](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/developer-haileykim/)
   
   
+  
+
+
+<!-- [![Hailey’s github stats](https://github-readme-stats.vercel.app/api?username=hihailey)](https://github.com/hihailey)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihailey&layout=compact)](https://github.com/hihailey)
+   -->
   
  
   
