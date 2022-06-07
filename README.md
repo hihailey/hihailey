@@ -3,6 +3,8 @@
 
  <img align="right" width="150px" src= "https://user-images.githubusercontent.com/65589560/172493591-fd2432b4-1499-4ebc-b8fd-098fc18dec43.png" >
     
+  
+ I studied Full Stack Web Development at BCIT and just graduated it 🎓! (2022, May) <br>
  I love learning something new and share the knowledge with other people. Feel free to contact me if anyone want to share something or talk with me!
  
  
