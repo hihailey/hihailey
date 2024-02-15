@@ -3,9 +3,9 @@
 
  <img align="right" width="150px" src= "https://user-images.githubusercontent.com/65589560/172493591-fd2432b4-1499-4ebc-b8fd-098fc18dec43.png" >
     
-  
- I studied Full Stack Web Development at BCIT and just graduated 🎓! (May, 2022) <br>
- I love learning something new and sharing the knowledge with other people. Feel free to contact me if anyone wants to share something or talk with me!
+Hey there! 👋 I'm a Full Stack Web Developer who graduated from BCIT, and I've been in the world of coding since 2022. 
+I find pure joy in crafting things from scratch on the web. 
+Learning is my jam, and I'm always up for exploring something new. If you're into sharing knowledge or just want to have a chat, feel free to reach out! I'm all ears for interesting conversations. 😊
  
  
   ### 🔧 Technologies & Tools
